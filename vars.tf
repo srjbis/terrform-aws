@@ -1,11 +1,11 @@
 variable "aws_access_key" {
   description = "Amazon Web Server(AWS) access key"
-  default = "AKIA5SLZXQP3MS4Y75RW"
+  default = "your aws access key"
 }
 
 variable "aws_secret_access_key" {
   description = "Amazon Web Server(AWS) secret access key"
-  default = "gJgqnW+56/6dnBsbMHtm5IEqefCAeVseO7rjghe5"
+  default = "your aws secret access key"
 }
 
 variable "region" {
